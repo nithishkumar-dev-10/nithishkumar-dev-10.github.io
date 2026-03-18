@@ -6,7 +6,6 @@ This website showcases my projects, skills, and achievements as an aspiring **AI
 🌐 **Live Portfolio:**  
 https://nithishkumar-dev-10.github.io
 
-
 ---
 
 # 👨‍💻 About Me
